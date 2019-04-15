@@ -71,8 +71,8 @@ public class StatusBar extends SettingsPreferenceFragment implements
     private SwitchPreference mMissedCallBreath;
     private SwitchPreference mVoicemailBreath;
 
-    private static final int STATUS_BAR_BATTERY_STYLE_TEXT = 3;
-    private static final int STATUS_BAR_BATTERY_STYLE_HIDDEN = 4;
+    private static final int STATUS_BAR_BATTERY_STYLE_TEXT = 5;
+    private static final int STATUS_BAR_BATTERY_STYLE_HIDDEN = 6;
 
     private SystemSettingMasterSwitchPreference mStatusBarClockShow;
     private SystemSettingMasterSwitchPreference mStatusBarLogo;
